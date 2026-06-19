@@ -1,0 +1,48 @@
+[ studytock.kr — 스터디톡 | 학원 Q&A 커뮤니티 ]
+
+■ title: 스터디톡 | 학원 Q&A 커뮤니티
+■ description: 학부모·학생 18,402명의 교육 고민을 해결하는 Q&A 정보 공유 커뮤니티.
+■ keywords: 교육QA, 교육질문, 교육정보, 교육커뮤니티, 입시정보, 교육고민, 학부모커뮤니티
+
+─────────────────────────────────────────
+
+<!-- 구조화 데이터: EducationalOrganization -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "@id": "https://studytock.kr/#organization",
+  "name": "스터디톡",
+  "alternateName": ["StudyTock", "스터디 톡"],
+  "url": "https://studytock.kr",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://studytock.kr/apple-touch-icon.png",
+    "width": 180,
+    "height": 180
+  },
+  "image": "https://studytock.kr/apple-touch-icon.png",
+  "description": "학부모·학생이 교육 고민을 묻고 답하는 Q&A 커뮤니티",
+  "areaServed": "대한민국",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "KR"
+  }
+}
+</script>
+
+<!-- 구조화 데이터: WebSite -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://studytock.kr/#website",
+  "name": "스터디톡",
+  "alternateName": ["StudyTock", "스터디 톡"],
+  "url": "https://studytock.kr",
+  "publisher": {
+    "@id": "https://studytock.kr/#organization"
+  },
+  "inLanguage": "ko-KR"
+}
+</script>
